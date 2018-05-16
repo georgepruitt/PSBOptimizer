@@ -1,6 +1,6 @@
 '''/////////////////////////////////////////////////////////////////////////////////
  System Tester.py - programmed by George Pruitt www.georgepruitt.com
- Copyright 2016 by George Pruitt
+ Copyright 2018 by George Pruitt
  Feel free to distribute and improve upon - just include this banner
  Version 2.1 scroll down about half way to get to your system coding section
 ///////////////////////////////////////////////////////////////////////////////////'''
